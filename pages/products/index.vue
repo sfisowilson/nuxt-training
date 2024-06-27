@@ -1,7 +1,6 @@
-
 <template>
     <div>
-        <h1 class="text-3xl">hello Vue</h1>
+        Products
     </div>
 </template>
 
